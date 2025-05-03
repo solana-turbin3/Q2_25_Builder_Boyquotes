@@ -1,3 +1,6 @@
 [submodule "solana-start-T3-Q225"]
 	path = solana-start-T3-Q225
 	url = https://github.com/Boyquotes/solana-start-T3-Q225
+[submodule "walrus-depin"]
+	path = walrus-depin
+	url = https://github.com/Boyquotes/walrus-depin

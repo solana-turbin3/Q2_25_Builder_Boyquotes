@@ -4,3 +4,6 @@
 [submodule "walrus-depin"]
 	path = walrus-depin
 	url = https://github.com/Boyquotes/walrus-depin
+[submodule "capstone_colosseum/trading_land_solana"]
+	path = capstone_colosseum/trading_land_solana
+	url = https://github.com/Boyquotes/trading_land_solana/

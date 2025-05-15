@@ -7,3 +7,12 @@
 [submodule "capstone_colosseum/trading_land_solana"]
 	path = capstone_colosseum/trading_land_solana
 	url = https://github.com/Boyquotes/trading_land_solana/
+[submodule "anchor-vault-turbin3"]
+	path = anchor-vault-turbin3
+	url = git@github.com:Boyquotes/anchor-vault-turbin3.git
+[submodule "capstone_colosseum/test-programs-games-anchor"]
+	path = capstone_colosseum/test-programs-games-anchor
+	url = git@github.com:Boyquotes/test-programs-games-anchor.git
+[submodule "anchor-escrow-turbin3"]
+	path = anchor-escrow-turbin3
+	url = git@github.com:Boyquotes/anchor-escrow-turbin3
